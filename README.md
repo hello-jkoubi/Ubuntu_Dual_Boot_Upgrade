@@ -65,12 +65,16 @@ You will then go through a series of initial setup screens:
 
 The following video shows the flow of these steps:
 
+test 1
+[Watch video](docs/ubuntu_installer.mp4)
 
+test 2
 <div align="center">
-  <video width="600" controls>
-    <source src="docs/ubuntu_installer.mp4" type="video/mp4">
-  </video>
+  <a href="docs/ubuntu_installer.mp4">
+    <img src="docs/IMG_3945.png" width="600">
+  </a>
 </div>
+
 ---
 
 #### Recommended Software Options
