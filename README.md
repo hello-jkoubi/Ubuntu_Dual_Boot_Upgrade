@@ -63,16 +63,10 @@ You will then go through a series of initial setup screens:
 - Choose `Interactive Installation`  
 - Select `Default selection`
 
-The following video shows the flow of these steps:
+The following GIF shows the flow of these steps:
 
-test 1
-[Watch video](docs/ubuntu_installer.mp4)
-
-test 2
 <div align="center">
-  <a href="docs/ubuntu_installer.mp4">
-    <img src="docs/IMG_3945.png" width="600">
-  </a>
+  <img src="docs/ubuntu_small.gif" alt="base" width="600"/>
 </div>
 
 ---
